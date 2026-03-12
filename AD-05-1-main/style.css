@@ -1,5 +1,28 @@
+/* CSS Section
+
+- Link style.css to HTML
+- Make the background color gray
+- Make h3 color green
+- Make a class to apply the color blue to three h3
+- Make one h3 color red */
+
 html {
     height: 100%;
     width: 100%;
   }
-  
+
+body{
+  background-color: gray;
+}
+
+h3{
+  color:green;
+}
+
+.blue{
+  color: blue;
+}
+
+#red{
+  color: red;
+}

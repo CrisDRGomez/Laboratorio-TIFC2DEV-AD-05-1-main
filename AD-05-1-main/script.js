@@ -9,4 +9,3 @@ title.forEach(title => {
         title.style.color = randomColor();
     });
 });
-

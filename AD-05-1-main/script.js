@@ -1,6 +1,6 @@
-const color =["green", "blue", "red"];
+const colors =["green", "blue", "red"];
 function randomColor(){
-    return colors[Math.floor(Math.random() * color.length)];
+    return colors[Math.floor(Math.random() * colors.length)];
 }
 
 const title = document.querySelectorAll("h5");
